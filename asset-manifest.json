@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//Saeed-Ramadan.github.io/react-quiz/static/css/main.5e80a523.css",
+    "main.js": "/https//Saeed-Ramadan.github.io/react-quiz/static/js/main.84f8d355.js",
+    "index.html": "/https//Saeed-Ramadan.github.io/react-quiz/index.html",
+    "main.5e80a523.css.map": "/https//Saeed-Ramadan.github.io/react-quiz/static/css/main.5e80a523.css.map",
+    "main.84f8d355.js.map": "/https//Saeed-Ramadan.github.io/react-quiz/static/js/main.84f8d355.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e80a523.css",
+    "static/js/main.84f8d355.js"
+  ]
+}
